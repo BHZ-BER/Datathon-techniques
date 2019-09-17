@@ -4,30 +4,32 @@ Common techniques for datathon.
 
 ## Visualization
 
-- Network
+- Network *Yue
 - Cluster
-- Graph
 - Decision Tree / Random forest / XGBoost
 - Time series
+- Line plotting
+- Plotting on a map
 
 
 ## Models
 
-- Supervised Learning techniques: https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
-- Generalized Linear Model: Linear regression; SVM
-- Confidence interval
-- Time series Analysis
-- Decision Tree
-- Random Forest
-- Hypothesis testing
+- Supervised Learning techniques: https://scikit-learn.org/stable/supervised_learning.html#supervised-learning *Banghua &Yiling*
+- Linear regression; SVM; Nearest Neighbors
+- Confidence interval *Yiling*
+- Time series Analysis *Yue
+- Decision Tree *Yue
+- Random Forest *Yue
+- Hypothesis testing *Yiling
 - Scikit-learn: https://scikit-learn.org/stable/
-- XGBoost: https://xgboost.readthedocs.io/en/latest/
-- Feature selection
-- Dimension reduction: PCA, ICA, CCA, FLD, t-SNE: https://www.datacamp.com/community/tutorials/introduction-t-sne
+- XGBoost: https://xgboost.readthedocs.io/en/latest/ *Yue
+- Feature selection https://scikit-learn.org/stable/modules/feature_selection.html#feature-selection *Jiahao
+- Dimension reduction: PCA, ICA, CCA, FLD *Jiahao
+- Cluster 8Jiahao
 
 
 
-## NLP-related Model
+## NLP-related Model *Banghua
 
 - Text
 - Word2Vec
