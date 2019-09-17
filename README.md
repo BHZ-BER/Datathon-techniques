@@ -14,6 +14,7 @@ Common techniques for datathon.
 - Hypothesis testing
 - Scikit-learn
 - XGBoost: https://xgboost.readthedocs.io/en/latest/
+- LGBM: https://lightgbm.readthedocs.io/en/latest/
 - Feature selection
 - Dimension reduction
 
