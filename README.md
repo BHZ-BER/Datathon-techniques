@@ -13,7 +13,9 @@ Common techniques for datathon.
 - Random Forest
 - Hypothesis testing
 - Scikit-learn
-- 
+- XGBoost: https://xgboost.readthedocs.io/en/latest/
+
+
 
 ## NLP-related Model
 
