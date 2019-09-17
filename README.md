@@ -9,6 +9,12 @@ Common techniques for datathon.
 
 - Linear regression
 - Time series Analysis
+- Decision Tree
+- Random Forest
+- Hypothesis testing
 - 
 
-## NLP-related
+## NLP-related Model
+
+- Text
+- Word2Vec
