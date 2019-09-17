@@ -23,7 +23,7 @@ Common techniques for datathon.
 - Scikit-learn: https://scikit-learn.org/stable/
 - XGBoost: https://xgboost.readthedocs.io/en/latest/
 - Feature selection
-- Dimension reduction: PCA, ICA, CCA, FLD
+- Dimension reduction: PCA, ICA, CCA, FLD, t-SNE: https://www.datacamp.com/community/tutorials/introduction-t-sne
 
 
 
