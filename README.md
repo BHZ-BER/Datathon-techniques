@@ -33,7 +33,7 @@ Common techniques for datathon.
 
 ## Common tools
 
-- Numpy, Pandas, Pickle, 
+- Numpy, Pandas, Pickle, Jupyter
 
 ## Potential Collaboration choice:
 
