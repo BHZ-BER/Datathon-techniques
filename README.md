@@ -14,6 +14,7 @@ Common techniques for datathon.
 ## Models
 
 - Linear regression
+- Confidence interval
 - Time series Analysis
 - Decision Tree
 - Random Forest
