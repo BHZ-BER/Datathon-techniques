@@ -17,7 +17,7 @@ Common techniques for datathon.
 - Supervised Learning techniques: https://scikit-learn.org/stable/supervised_learning.html#supervised-learning *Banghua &Yiling*
 - Linear regression; SVM; Nearest Neighbors
 - Confidence interval *Yiling*
-- Time series Analysis *Yue
+- Time series Analysis *Yue*
 - Decision Tree *Yue*
 - Random Forest *Yue*
 - Hypothesis testing *Yiling*
