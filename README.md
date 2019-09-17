@@ -18,7 +18,7 @@ Common techniques for datathon.
 - Decision Tree
 - Random Forest
 - Hypothesis testing
-- Scikit-learn
+- Scikit-learn: https://scikit-learn.org/stable/
 - XGBoost: https://xgboost.readthedocs.io/en/latest/
 - Feature selection
 - Dimension reduction: PCA, ICA, CCA, FLD
