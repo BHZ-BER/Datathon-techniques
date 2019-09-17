@@ -13,6 +13,7 @@ Common techniques for datathon.
 
 ## Models
 
+- Supervised Learning techniques: https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
 - Linear regression
 - Confidence interval
 - Time series Analysis
