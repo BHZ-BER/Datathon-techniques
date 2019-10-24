@@ -45,4 +45,8 @@ Common techniques for datathon.
 
 ## Prepare Overleaf Template
 
+Potential machinary:
 
+James-Stein estimation: adaptive estimator
+
+Statsmodel gives an latex form automatically
